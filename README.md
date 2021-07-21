@@ -1,1 +1,0 @@
-# Removing-element-ArrayList
